@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
+**Senior Product Manager** specializing in Enterprise B2B SaaS, Cloud Software, and Technical Platform Products.
 
-<!--
-**yutingsun-EAT/yutingsun-EAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+* **Domain Expertise:** B2B SaaS, Admin Experience, Enterprise Identity/RBAC, Systems Integration.
+* **Product Approach:** Data-informed discovery, developer-friendly technical specs, and scalable system architectures.
+* **Technical Stack & Tools:** SQL, Java, Jira, Confluence, Salesforce, Mixpanel, Lucidchart, Google Workspace, Microsoft Office, Python, Claude Code / LLM Workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Featured Product Artifacts & Case Studies
+
+| Project / Case Study | Focus Area | Artifacts Included |
+| :--- | :--- | :--- |
+
+---
+
+### 📫 Connect With Me
+* **LinkedIn:** [linkedin.com/in/yutings](https://linkedin.com/in/yutings)
+* **Email:** yts.sun@gmail.com
