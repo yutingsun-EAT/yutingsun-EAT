@@ -1,0 +1,4 @@
+gh_poll.sh
+gh_poll.log
+gh_device_response.json
+*.log
