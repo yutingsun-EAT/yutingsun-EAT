@@ -14,6 +14,7 @@
 
 | Project / Case Study | Focus Area | Artifacts Included |
 | :--- | :--- | :--- |
+| **Tax Agent AI** — [🔗 live prototype](https://yutingsun-eat.github.io/tax-agent-ai/) · [repo](https://github.com/yutingsun-EAT/tax-agent-ai) | Sales-tax discrepancy resolution with AI agents (B2B SaaS, finance ops) | Interactive prototype (2 use cases) + design one-pager |
 
 ---
 
